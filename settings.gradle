@@ -1,0 +1,2 @@
+rootProject.name = "android_viewpager_srtcayhan"
+include ':app'

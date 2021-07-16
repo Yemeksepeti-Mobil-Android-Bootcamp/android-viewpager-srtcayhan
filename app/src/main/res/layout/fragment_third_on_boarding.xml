@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android_viewpager_srtcayhan.fragments.FirstOnBoardingFragment"
+    android:orientation="vertical"
+    android:background="#EEAAFA">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="397dp"
+        android:layout_marginTop="48sp"
+        android:contentDescription="firstJpg"
+        android:src="@drawable/ic_road_trip_amico" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        android:fontFamily="@font/font"
+        android:textSize="20sp"
+        android:paddingStart="30sp"
+        android:paddingEnd="30sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20sp"/>
+
+
+</LinearLayout>
